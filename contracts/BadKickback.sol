@@ -5,10 +5,10 @@ pragma solidity ^0.5.0;
  * Contract has been made intentionally with vulnerablity for learning purpose
  * DO NOT USE THIS contract
  *
- * The contract aims at incentives higher event show up rate.
- * It incentives participants to show up by charging an admission fee and then
+ * The contract aims at producing higher event turnup rate
+ * by charging an admission fee and then
  * split the collected fund with all attendees
- * People who did not show up will lose their admission fee
+ * No-shows will lose their admission fee
  * 
 */
 contract BadKickback {
